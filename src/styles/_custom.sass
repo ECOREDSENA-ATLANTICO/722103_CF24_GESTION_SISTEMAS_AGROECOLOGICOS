@@ -195,6 +195,26 @@
     @media (max-width: 426px)
       height: 87%
 
+.bg_grad-07
+  position: relative
+  p, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 21%
+    left: 0
+    width: 93%
+    height: 60%
+    border-radius: 20px
+    background-color: #DEEBAD
+    @media (max-width: $bp-max-xs)
+      top: -2%
+      height: 79%
+    @media (max-width: 426px)
+      height: 87%
+
 //POSICION EN PANTALLA//
 .pst
   position: absolute
@@ -418,6 +438,30 @@
     width: 130px
     left: 86%
     top: -16%
+    z-index: 0
+    @media (max-width: $bp-max-md)
+      top: 0
+      left: 80%
+    @media (max-width: $bp-max-xs)
+      top: 65%
+      left: 80%
+  &_20
+    position: absolute
+    width: 130px
+    left: -4%
+    top: 57%
+    z-index: 0
+    @media (max-width: $bp-max-md)
+      top: 0
+      left: 80%
+    @media (max-width: $bp-max-xs)
+      top: 65%
+      left: 80%
+  &_21
+    position: absolute
+    width: 130px
+    left: 72%
+    top: 64%
     z-index: 0
     @media (max-width: $bp-max-md)
       top: 0
