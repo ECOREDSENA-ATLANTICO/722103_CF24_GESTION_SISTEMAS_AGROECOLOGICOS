@@ -33,7 +33,7 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Extensión rural.',
+        titulo: 'Extensión rural',
         desarrolloContenidos: true,
         subMenu: [
           {

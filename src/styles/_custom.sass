@@ -10,7 +10,6 @@
     top: 19%
     right: 80%
 
-
 @keyframes float1
   0%
     transform: translateY(20px)
@@ -18,6 +17,218 @@
   100%
     transform: translateY(0px)
 
-
 .banner-interno__fondo
   background-image: url(../assets/curso/temas/banner_interno.svg) !important
+
+//TAMAÑO IMAGENES//
+
+.ti
+  height: 78px
+  width: 78px
+
+//CALSES REEMPLAZADAS//
+
+.bloque-texto-g__texto
+  width: 68%
+
+//BACKGROUND CONTENIDOS//
+.bgr
+  background-color: #F6F6F6
+  &_1
+    background-color: #FFFFFF
+    display: inline-block
+    border-radius: 10px
+    margin-top: -100px
+    box-shadow: 0 0 20px 3px #888888
+    @media (max-width: $bp-min-md)
+      margin-top: -8px
+  &_2
+    background-color: #F3F8E0 !important
+  &_3
+    background-color: #FFA686
+    border-radius: 20px
+  &_4
+    background-color: #EFF5D6 !important
+
+.bg_grad-01
+  position: relative
+  p, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 0
+    left: -36px
+    width: calc( 100% + 72px )
+    height: 100%
+    background-color: #DFE4CC
+    @media (max-width: $bp-max-xs)
+      top: -2%
+      height: 79%
+    @media (max-width: 426px)
+      height: 87%
+.bg_grad-02
+  position: relative
+  p, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 14%
+    left: 0
+    width: 100%
+    height: 72%
+    background-color: #FFE9E1
+    @media (max-width: $bp-max-xs)
+      top: -2%
+      height: 79%
+    @media (max-width: 426px)
+      height: 87%
+.bg_grad-03
+  position: relative
+  p, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: 0
+    left: 10%
+    width: 90%
+    height: 100%
+    background-color: #F6F6F6
+    @media (max-width: $bp-max-xs)
+      top: -2%
+      height: 79%
+    @media (max-width: 426px)
+      height: 87%
+.bg_grad-04
+  position: relative
+  p, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: -10px
+    left: -48px
+    width: calc( 100% + 96px )
+    height: calc( 100% + 30px )
+    background-color: #DEEBAD
+    @media (max-width: $bp-max-xs)
+      top: -2%
+      height: 79%
+    @media (max-width: 426px)
+      height: 87%
+
+.bg_grad-05
+  position: relative
+  justify-content: space-between
+  p, figure
+    position: relative
+  &::before
+    content: ''
+    position: absolute
+    margin: 0
+    top: -20px
+    left: -36px
+    width: calc( 100% + 72px )
+    height: calc( 100% + 40px )
+    background-color: #FFE9E1
+    border-radius: 30px
+    @media (max-width: $bp-max-xs)
+      top: -2%
+      height: 79%
+    @media (max-width: 426px)
+      height: 87%
+
+//POSICION EN PANTALLA//
+.pst
+  position: absolute
+  width: 25px
+  left: 22px
+  top: 10%
+  right: 0
+  @media (max-width: $bp-max-md)
+    top: 0
+    left: 80%
+  @media (max-width: $bp-max-xs)
+    top: 65%
+    left: 80%
+  &_1
+    position: absolute
+    width: 150px
+    left: 18%
+    top: 38%
+    z-index: 0
+    @media (max-width: $bp-max-md)
+      top: 0
+      left: 80%
+    @media (max-width: $bp-max-xs)
+      top: 65%
+      left: 80%
+  &_2
+    position: absolute
+    width: 140px
+    left: -40px
+    top: 61%
+    z-index: 0
+    @media (max-width: $bp-max-md)
+      top: 0
+      left: 80%
+    @media (max-width: $bp-max-xs)
+      top: 65%
+      left: 80%
+  &_3
+    z-index: 100
+  &_4
+    position: absolute
+    width: 150px
+    left: -8%
+    top: 68%
+    z-index: 0
+    @media (max-width: $bp-max-md)
+      top: 0
+      left: 80%
+    @media (max-width: $bp-max-xs)
+      top: 65%
+      left: 80%
+  &_5
+    position: absolute
+    width: 150px
+    left: -7%
+    top: 89%
+    z-index: 0
+    @media (max-width: $bp-max-md)
+      top: 0
+      left: 80%
+    @media (max-width: $bp-max-xs)
+      top: 65%
+      left: 80%
+  &_6
+    position: absolute
+    width: 100px;
+    left: -6%;
+    top: -3%
+    z-index: -1
+    @media (max-width: $bp-max-md)
+      top: 0
+      left: 80%
+    @media (max-width: $bp-max-xs)
+      top: 65%
+      left: 80%
+  &_7
+    position: absolute
+    width: 200px;
+    left: 50%;
+    top: -15%;
+    z-index: -1
+    @media (max-width: $bp-max-md)
+      top: 0
+      left: 80%
+    @media (max-width: $bp-max-xs)
+      top: 65%
+      left: 80%
+
