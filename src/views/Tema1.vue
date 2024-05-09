@@ -42,6 +42,8 @@
       .col-lg-8.align-content-center
         p.mb-0 Pero, <b>¿qué es la extensión rural?</b>, existen diversas concepciones como lo indica Landini (2016), se puede definir como un instrumento que permite impulsar el desarrollo de la comunidad campesina, al direccionar adecuadamente el aprovechamiento de los recursos y lograr brindar soluciones a las problemáticas existentes. Lo que conlleva a minimizar los índices de pobreza y aportar el aumento de la seguridad alimentaria; por medio de la identificación de los problemas, el uso, adopción y transmisión de la tecnología. Además, de los procesos de enseñanza constante que incluye la conexión y comunicación permanente entre todos los actores, es decir, comunidad campesina, técnicos, y organizaciones.
     
+    separador
+
     #t_1_1.titulo-segundo.color-acento-contenido
       h2 1.1  Objetivos y retos
     
@@ -81,6 +83,8 @@
           img.mb-3.d-none.d-lg-flex(src='@/assets/curso/temas/tema1/16.svg', alt='Texto que describa la imagen')
           img.mb-3.d-flex.d-lg-none(src='@/assets/curso/temas/tema1/17.svg', alt='Texto que describa la imagen')
           figcaption Nota. Corredor, E., Páez, E. y Fonseca, J. (2019). Desarrollo y extensión rural. Estrategias para el fortalecimiento de la agricultura familiar campesina.
+    
+    separador
 
     #t_1_2.titulo-segundo.color-acento-contenido
       h2 1.2  Enfoque y diagnóstico participativo 
@@ -139,6 +143,8 @@
           img.mb-3.d-none.d-lg-flex(src='@/assets/curso/temas/tema1/27.svg', alt='Texto que describa la imagen')
           img.mb-3.d-flex.d-lg-none(src='@/assets/curso/temas/tema1/28.svg', alt='Texto que describa la imagen')
     
+    separador
+
     #t_1_3.titulo-segundo.color-acento-contenido
       h2 1.3  Comunicación
     
