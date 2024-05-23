@@ -77,7 +77,7 @@
           span Propósitos de la extensión rural
     .row.mb-5.justify-content-center(data-aos="zoom-in")
       .col-lg-8
-        figure.mb-5
+        figure
           img.mb-3.d-none.d-lg-flex(src='@/assets/curso/temas/tema1/16.svg', alt='Se enumera el propósito según las habilidades y conocimientos de los agricultores, familias y la comunidad la extensión rural: familias rurales educadas, hogares rurales mejorados, comunidades más desarrolladas, finca y sistemas más productivos y comunidades participes para solución de sus problemas.')
           img.mb-3.d-flex.d-lg-none(src='@/assets/curso/temas/tema1/17.svg', alt='Se enumera el propósito según las habilidades y conocimientos de los agricultores, familias y la comunidad la extensión rural: familias rurales educadas, hogares rurales mejorados, comunidades más desarrolladas, finca y sistemas más productivos y comunidades participes para solución de sus problemas.')
           figcaption Nota. Corredor, E., Páez, E. y Fonseca, J. (2019). Desarrollo y extensión rural. Estrategias para el fortalecimiento de la agricultura familiar campesina.

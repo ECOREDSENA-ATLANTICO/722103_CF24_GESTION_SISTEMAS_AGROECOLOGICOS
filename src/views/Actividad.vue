@@ -10,12 +10,12 @@
             img(src="@/assets/template/falso-verdadero.svg", alt="Imagen de apoyo")
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
-          h2 Nombre de la actividad
-        p.mb-4 #[b Objetivo] 
+          h2 Conceptos del plan de manejo agroecológico
+        p.mb-4 #[b Identificar los conceptos del plan de manejo agroecológico, para aplicarlos en la población, teniendo en cuenta  los diferentes métodos.] 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 Tipo de actividad
+              p.fw-bold.mb-0 Arrastar y soltar coincidencias
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/actividad.html')" target="_blank")
                 span Realizar
