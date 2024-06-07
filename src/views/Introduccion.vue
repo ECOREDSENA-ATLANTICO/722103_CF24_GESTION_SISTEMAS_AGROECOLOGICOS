@@ -12,7 +12,7 @@
     p.mb-5 Le damos la bienvenida al componente formativo denominado 
       strong 
         | “Planificación y evaluación de actividades del plan de manejo agroecológico” 
-      | para iniciar visualice el siguiente video y conozca más:
+      | para iniciar revisé el siguiente video y conozca más:
 
     figure
       .video

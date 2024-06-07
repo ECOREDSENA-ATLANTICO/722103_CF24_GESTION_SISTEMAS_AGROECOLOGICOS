@@ -79,7 +79,7 @@
               figure
                 img(src='@/assets/curso/temas/tema2/12.svg', alt='Imagen de apoyo')
             .col-lg-7.align-content-center
-              p Existen diferentes métodos, dentro de ellos están  los s grupales expositivos, aquí se encuentran las reuniones de carácter informativo, las conferencias, charlas técnicas, seminarios y demás formas de integración y comunicación que permitan reunir a la comunidad de manera formal e informal con la finalidad de brindar información, intercambiar ideas, experiencias u opiniones, tomar decisiones, realizar dinámicas y actividades, responder preguntas e interrogantes y en general construir de forma participativa.
+              p Existen diferentes métodos, dentro de ellos están  los grupales expositivos, aquí se encuentran las reuniones de carácter informativo, las conferencias, charlas técnicas, seminarios y demás formas de integración y comunicación que permitan reunir a la comunidad de manera formal e informal con la finalidad de brindar información, intercambiar ideas, experiencias u opiniones, tomar decisiones, realizar dinámicas y actividades, responder preguntas e interrogantes y en general construir de forma participativa.
 
     .row.mb-5.justify-content-center
       .col-lg-10
@@ -286,7 +286,9 @@
         //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
         //- estas clases tambien tienen un modificador --borde
         .tarjeta.bgr_10.align-content-end
-          p.mb-0.text-center.bgr_12.text-white.p-3 Diapositivas 
+          p.mb-0.text-center.bgr_12.text-white.p-3 Diapositivas
+
+    separador 
     
     #t_2_4.titulo-segundo.color-acento-contenido
       h2 2.4  Técnicas
@@ -330,6 +332,8 @@
           li 
             span.text-bold 3. 
             | Dinámicas de evaluación.
+    
+    p.mb-5 Pero, también se pueden agrupar de acuerdo con los sentidos que se emplean al momento de realizar la comunicación como, por ejemplo, técnicas:
     
     .row 
       .col-md-6.col-lg-3.mb-3(data-aos="flip-down")

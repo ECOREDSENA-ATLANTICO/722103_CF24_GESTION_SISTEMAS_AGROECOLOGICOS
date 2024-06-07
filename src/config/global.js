@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Planificación y evaluación de actividades del plan de manejo agroecológico.',
+      'Planificación y evaluación de actividades del plan de manejo agroecológico',
     descripcionCurso:
       'Este componente formativo se enfoca en la extensión rural y los métodos y técnicas existentes para llevar a cabo los procesos de capacitación y aprendizaje con la comunidad campesina, además se establecen los indicadores para evaluar los agroecosistemas, haciendo énfasis en la metodología del marco para la evaluación de sistemas de manejo de recursos naturales, incorporando indicadores de sustentabilidad (MESMIS).',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
@@ -159,7 +159,8 @@ export default {
       referencia:
         'INTA (2009). Manual del extensionista. Proyecto de la piscicultura rural.',
       tipo: 'Manual',
-      descarga: '/downloads/prueba.pdf',
+      link:
+        'https://issuu.com/intacipaf/docs/inta_ipafnea_-_manual_extens_pisc_rural',
     },
     {
       tema: '2. Métodos de extensión rural',

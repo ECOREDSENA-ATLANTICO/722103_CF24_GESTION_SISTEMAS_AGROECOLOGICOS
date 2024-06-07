@@ -27,7 +27,7 @@
       .col.lg-8.align-content-center.order-1.order-lg-2.mb-5
         p.mb-0 Según Jurado. (2019), la expresión de extensión rural surge y aparece como práctica en los Estados Unidos, siendo Seaman Asael Knapp considerado el padre o fundador del servicio de extensión; pero para el caso específico de Colombia los primeros pasos se dieron en 1941, por medio del Ministerio de Educación quien crea instrumentos para empezar a llevar educación al área rural, años más tarde se crean instituciones y programas de gran relevancia como:
     
-    h2 Creación de instituciones y programas para el agro colombiano.
+    h2 Creación de instituciones y programas para el agro colombiano
     p.mb-5 Por medio del Ministerio de Educación quien crea instrumentos para empezar a llevar educación al área rural, años más tarde se crean instituciones y programas de gran relevancia como:
 
     .row.justify-content-center.mb-5
@@ -147,7 +147,7 @@
           img(src='@/assets/curso/temas/tema1/29.svg', alt='Imagen de apoyo')
 
     .cajon.color-secundario.bgr_15.p-5.mb-5
-      p.mb-0 La comunicación juega un papel muy importante en la gestión de cualquier cosa, como es una herramienta para compartir pensamientos, ideas, opiniones y planes, se requiere para construir buenas relaciones con los demás al ayudar a comprender a los demás. Existen diferentes tipos de comunicación, en el siguiente video se observarán sus características:  
+      p.mb-0 La comunicación juega un papel muy importante en la gestión de cualquier cosa, como es una herramienta para compartir pensamientos, ideas, opiniones y planes, se requiere para construir buenas relaciones con los demás al ayudar a comprender a los demás. Existen diferentes tipos de comunicación, en el siguiente video se detallan sus características:  
     
     figure
       .video

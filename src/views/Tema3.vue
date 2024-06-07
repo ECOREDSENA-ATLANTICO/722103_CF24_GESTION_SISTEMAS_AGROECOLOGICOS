@@ -17,7 +17,7 @@
         figure
           img(src='@/assets/curso/temas/tema3/1.svg', alt='Imagen de apoyo')
     .cajon.color-acento-contenido.bgr_11.mb-5
-      p.mb-0.px-5.py-4 Debido a que los indicadores son estadísticas que condensan el comportamiento (estado, evolución y dinámica) de variables de interés y que por medio de su análisis se puede llevar a cabo procesos de mejora; s importante, la adecuada obtención y procesamiento de la información, logrando obtener indicadores confiables, que sean fáciles de aplicar, que posibiliten incorporar cambios con el paso del tiempo, que sean fáciles de interpretar, universales, pero al mismo tiempo se puedan aplicar a casos particulares.
+      p.mb-0.px-5.py-4 Debido a que los indicadores son estadísticas que condensan el comportamiento (estado, evolución y dinámica) de variables de interés y que por medio de su análisis se puede llevar a cabo procesos de mejora; es importante la adecuada obtención y procesamiento de la información, logrando obtener indicadores confiables, que sean fáciles de aplicar, que posibiliten incorporar cambios con el paso del tiempo, que sean fáciles de interpretar, universales, pero al mismo tiempo se puedan aplicar a casos particulares.
   
     .row.mb-5.bgr_11.p-4.justify-content-center.position-relative
       .col-lg-10.align-content-center.order-2.order-lg-1
@@ -65,7 +65,7 @@
     figure.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/temas/tema3/6.svg', alt='Se explica a continuación de la imagen el esquema general del MESMIS')
 
-    p.mb-5 Para lo cual es necesario la identificación de atributos que poseen los agroecosistemas, como, por ejemplo:
+    p.mb-5 Para lo cual es necesario la identificación de atributos que poseen los agroecosistemas, como por ejemplo:
 
     SlyderF.mb-5(columnas="col-md-6 col-lg-4")
       .tarjeta.bgr_15.p-4
@@ -135,6 +135,10 @@
     
     figure.mb-5
       img(src='@/assets/curso/temas/tema3/15.svg', alt='Calidad de vida: tipo de tenencia de la tierra, acceso a salud, a educación, disponibilidad de servicios públicos, calidad de vía de acceso, calidad de agua para consumo humano, condiciones y materiales de la vivienda, dotación de electrodomésticos.-Socioeconómico: integrantes y organización del núcleo familiar, roles en la actividad agropecuaria, precepción de la estabilidad financiera, acceso a créditos.-Manejo de cultivos: prácticas laborales, uso de abonos orgánicos y fertilizantes químicos, manejo de plagas y enfermedades, rotación de cultivos, disponibilidad de riego y control de arvences.')
+      figcaption Nota. Sena (2022)
+
+    p.mb-5 El segundo paso del ciclo de evaluación del MESMIS, consiste en la identificación de puntos críticos, para que se pueda emplear la elaboración de una matriz de Debilidades, Oportunidades, Fortalezas y Amenazas (DOFA) mediante actividades participativas que involucren todos los integrantes del agroecosistema, además la valoración de problemas e impactos que tengan mayor incidencia.
+    
 
     .titulo-sexto.color-acento-contenido.mb-5
       h5 Tabla 1.
