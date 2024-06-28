@@ -245,8 +245,7 @@ export default {
     {
       referencia:
         'Corredor, S. Páez, M. y Fonseca, J. (2019). Desarrollo y extensión rural.: Estrategias para el fortalecimiento de la agricultura familiar campesina. ISBN:    978-958-651-730-0.',
-      link:
-        'https://repository.unad.edu.co/jspui/handle/10596/45644',
+      link: 'https://repository.unad.edu.co/jspui/handle/10596/45644',
     },
     {
       referencia:
