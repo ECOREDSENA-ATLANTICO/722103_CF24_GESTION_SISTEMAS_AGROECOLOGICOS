@@ -43,7 +43,7 @@
         .col-lg-9
           p Dentro del grupo de técnicas individuales están <b>las visitas a finca y la atención en la oficina,</b> estas permiten realizar de forma personal un diagnóstico y asesoramiento más detallado de la situación, compartir e intercambiar ideas de carácter técnico, como vivencias y particularidades, brindar recomendaciones, planear nuevos encuentros y actividades, lo que conlleva a la formación de vínculos de confianza.
 
-          p.mb-0 También, pertenece a este grupo las <b>consultas o asesorías a través de medios de interacción personal</b> como teléfono, chat, correo electrónico, mensaje de texto, entre otros, los cuales están enfocados a orientar o resolver un tema puntual de forma virtual.
+          p.mb-0 También, pertenecen a este grupo las <b>consultas o asesorías a través de medios de interacción personal</b> como teléfono, chat, correo electrónico, mensaje de texto, entre otros, los cuales están enfocados a orientar o resolver un tema puntual de forma virtual.
     
     .row.bgr_4.p-4
       .col-lg-4.mb-5(data-aos="fade-up")
@@ -164,7 +164,7 @@
         div.bgr_9.p-4
           .row
             .col-lg-7.align-content-center
-              p Los <b>medios impresos</b> que se emplean en los métodos masivos combinan de manera creativa y eficiente palabras e imágenes que sean acordes al índice de alfabetización y nivel educativo de la población a la cual van dirigidos. Como, por ejemplo: revistas, periódicos, folletos, cartillas, boletines, pizarras, afiches, carteles, vallas, entre otros.
+              p Los <b>medios impresos</b> que se emplean en los métodos masivos combinan de manera creativa y eficiente, palabras e imágenes que sean acordes al índice de alfabetización y nivel educativo de la población a la cual van dirigidos. Como, por ejemplo: revistas, periódicos, folletos, cartillas, boletines, pizarras, afiches, carteles, vallas, entre otros.
             .col-lg-5(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/temas/tema2/25.jpg', alt='Imagen de apoyo')
@@ -235,7 +235,7 @@
           p.mb-0.text-center.bgr_12.text-white.p-3 Vallas 
 
     .cajon.color-secundario.bgr_4.px-5.py-4.mb-5 
-      p.mb-0 Por su parte, los medios audiovisuales combinan no solo lo visual (vista) sino que también lo auditivo (oído), lo que permite obtener una ventaja en lo referente a la cobertura, porque puede llegar a personas que por ejemplo, no saben leer. Siendo lo más empleados la radio, la televisión, los videos, las exposiciones, la internet (correo electrónico, página web), entre otros.
+      p.mb-0 Por su parte, los medios audiovisuales combinan no solo lo visual (vista) sino que también lo auditivo (oído), lo que permite obtener una ventaja en lo referente a la cobertura, porque puede llegar a personas que, por ejemplo, no saben leer. Siendo los más empleados la radio, la televisión, los videos, las exposiciones, la internet (correo electrónico, página web), entre otros.
     
     SlyderF.mb-5(columnas="col-md-6 col-lg-3")
       .tarjeta-avatar

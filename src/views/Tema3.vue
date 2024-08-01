@@ -398,7 +398,7 @@
         caption Nota. Carreño, J. Barón, y Camargo, E. (2018). Metodologías para la estimación de sostenibilidad agropecuaria.     
         thead
           tr
-            th.bgr_18 Desempeño%
+            th.bgr_18 Desempeño %
             th.bgr_17 Cobertura vegetal
             th.bgr_18 Disponibilidad  de agua (m3)
             th.bgr_17 Capacidad  de recarga (L/S)

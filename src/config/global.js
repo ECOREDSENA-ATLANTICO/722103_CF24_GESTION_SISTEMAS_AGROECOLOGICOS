@@ -180,7 +180,7 @@ export default {
       tema: '3.  Medición de indicadores',
       referencia:
         'Carreño, J. Barón, E. y Camargo, E. (2018). Metodologías para la estimación de sostenibilidad agropecuaria. Libros Universidad Nacional Abierta ya Distancia.',
-      tipo: 'Articulo',
+      tipo: 'Artículo',
       descarga: '/downloads/Metodologias.pdf',
     },
   ],

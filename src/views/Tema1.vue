@@ -25,10 +25,10 @@
         figure
           img(src='@/assets/curso/temas/tema1/3.png' alt='AvatarTop')
       .col.lg-8.align-content-center.order-1.order-lg-2.mb-5
-        p.mb-0 Según Jurado. (2019), la expresión de extensión rural surge y aparece como práctica en los Estados Unidos, siendo Seaman Asael Knapp considerado el padre o fundador del servicio de extensión; pero para el caso específico de Colombia los primeros pasos se dieron en 1941, por medio del Ministerio de Educación quien crea instrumentos para empezar a llevar educación al área rural, años más tarde se crean instituciones y programas de gran relevancia como:
+        p.mb-0 Según Jurado. (2019), la expresión de extensión rural surge y aparece como práctica en los Estados Unidos, siendo Seaman Asahel Knapp considerado el padre o fundador del servicio de extensión; pero para el caso específico de Colombia los primeros pasos se dieron en 1941, por medio del Ministerio de Educación quien crea instrumentos para empezar a llevar educación al área rural, años más tarde se crean instituciones y programas de gran relevancia como:
     
     h2 Creación de instituciones y programas para el agro colombiano
-    p.mb-5 Por medio del Ministerio de Educación quien crea instrumentos para empezar a llevar educación al área rural, años más tarde se crean instituciones y programas de gran relevancia como:
+    p.mb-5 Por medio del Ministerio de Educación, quien crea instrumentos para empezar a llevar educación al área rural, años más tarde se crean instituciones y programas de gran relevancia como:
 
     .row.justify-content-center.mb-5
       .col-lg-10.bgr_15.tarjeta.p-4
@@ -40,7 +40,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/11.png' alt='AvatarTop')
       .col-lg-8.align-content-center(data-aos="fade-left")
-        p.mb-0 Pero, <b>¿qué es la extensión rural?</b>, existen diversas concepciones como lo indica Landini (2016), se puede definir como un instrumento que permite impulsar el desarrollo de la comunidad campesina, al direccionar adecuadamente el aprovechamiento de los recursos y lograr brindar soluciones a las problemáticas existentes. Lo que conlleva a minimizar los índices de pobreza y aportar el aumento de la seguridad alimentaria; por medio de la identificación de los problemas, el uso, adopción y transmisión de la tecnología. Además, de los procesos de enseñanza constante que incluye la conexión y comunicación permanente entre todos los actores, es decir, comunidad campesina, técnicos, y organizaciones.
+        p.mb-0 Pero, <b>¿qué es la extensión rural?</b>, existen diversas concepciones como lo indica Landini (2016), se puede definir como un instrumento que permite impulsar el desarrollo de la comunidad campesina, al direccionar adecuadamente el aprovechamiento de los recursos y lograr brindar soluciones a las problemáticas existentes. Lo que conlleva a minimizar los índices de pobreza y aportar el aumento de la seguridad alimentaria; por medio de la identificación de los problemas, el uso, adopción y transmisión de la tecnología. Además, de los procesos de enseñanza constante que incluyen la conexión y comunicación permanente entre todos los actores, es decir, comunidad campesina, técnicos, y organizaciones.
     
     separador
 
@@ -91,8 +91,8 @@
 
     div.bg_grad-04.mb-5
       figure.mb-5
-        img.d-none.d-lg-flex(src='@/assets/curso/temas/tema1/18.svg', alt='Imagen de apoyo')
-        img.d-flex.d-lg-none(src='@/assets/curso/temas/tema1/19.svg', alt='Imagen de apoyo')
+        img.d-none.d-lg-flex(src='@/assets/curso/temas/tema1/18.svg', alt='Se puede apreciar en la infografía, los principios y características de la extensión rural: - Permite capacitar y formar a través de un proceso educativo que aumenta los conocimientos, habilidad y genera cambios en la mentalidad (motiva y concientiza).   - Desarrolla recursos y capacidades en la persona (autonomía y autogestión) que permitan identificar lo que se tiene y la mejor forma de emplearlo.  - Respeta las tradiciones y valores culturales.  - Facilita la transmisión y adopción de tecnología.  - Incrementa el fortalecimiento de los vínculos familiares, al considerarla una unidad. - Incluye la dimensión social y humana, además gestiona conflictos.  - Emplea métodos democráticos que involucran a toda la población sin distingos de género, raza, color, edad, política, posición social, etc.')
+        img.d-flex.d-lg-none(src='@/assets/curso/temas/tema1/19.svg', alt='Se puede apreciar en la infografía, los principios y características de la extensión rural: - Permite capacitar y formar a través de un proceso educativo que aumenta los conocimientos, habilidad y genera cambios en la mentalidad (motiva y concientiza).   - Desarrolla recursos y capacidades en la persona (autonomía y autogestión) que permitan identificar lo que se tiene y la mejor forma de emplearlo.  - Respeta las tradiciones y valores culturales.  - Facilita la transmisión y adopción de tecnología.  - Incrementa el fortalecimiento de los vínculos familiares, al considerarla una unidad. - Incluye la dimensión social y humana, además gestiona conflictos.  - Emplea métodos democráticos que involucran a toda la población sin distingos de género, raza, color, edad, política, posición social, etc.')
     
     .cajon.color-secundario.bgr_15.mb-5
       .row.justify-content-end
@@ -103,7 +103,7 @@
             img(src='@/assets/curso/temas/tema1/20.svg', alt='Imagen de apoyo')
     
     .row.mb-5.bg_grad-05
-      p.mb-5 Dentro de las principales problemáticas que afectan el sector rural esta:
+      p.mb-5 Dentro de las principales problemáticas que afectan el sector rural están:
       .col-sm-6.col-lg-3.order-1.order-sm-2.order-lg-1.mb-3
         p.bgr_3.tarjeta.p-3 La informalidad.
         p.bgr_3.tarjeta.p-3 La falta de titularidad en la tenencia y uso del territorio.
@@ -144,7 +144,7 @@
     .row.mb-5.justify-content-center
       .col-lg-10
         figure
-          img(src='@/assets/curso/temas/tema1/29.svg', alt='Imagen de apoyo')
+          img(src='@/assets/curso/temas/tema1/29.svg', alt='Muestra el proceso de interacción social para realizar una comunicación efectiva y asertiva. Estos elementos son: - El emisor o fuente - Receptor - Canal - Mensaje  - Retroalimentación o respuesta del receptor.')
 
     .cajon.color-secundario.bgr_15.p-5.mb-5
       p.mb-0 La comunicación juega un papel muy importante en la gestión de cualquier cosa, como es una herramienta para compartir pensamientos, ideas, opiniones y planes, se requiere para construir buenas relaciones con los demás al ayudar a comprender a los demás. Existen diferentes tipos de comunicación, en el siguiente video se detallan sus características:  
