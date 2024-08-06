@@ -25,7 +25,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/3.png' alt='AvatarTop')
       .col.lg-8.align-content-center.order-1.order-lg-2.mb-5
-        p.mb-0 Según Jurado. (2019), la expresión de extensión rural surge y aparece como práctica en los Estados Unidos, siendo Seaman Asahel Knapp considerado el padre o fundador del servicio de extensión; pero para el caso específico de Colombia los primeros pasos se dieron en 1941, por medio del Ministerio de Educación quien crea instrumentos para empezar a llevar educación al área rural, años más tarde se crean instituciones y programas de gran relevancia como:
+        p.mb-0 Según Jurado. (2019), la expresión de extensión rural surge y aparece como práctica en los Estados Unidos, siendo Seaman Asahel Knapp considerado el padre o fundador del servicio de extensión; pero para el caso específico de Colombia los primeros pasos se dieron en 1941.
     
     h2 Creación de instituciones y programas para el agro colombiano
     p.mb-5 Por medio del Ministerio de Educación, quien crea instrumentos para empezar a llevar educación al área rural, años más tarde se crean instituciones y programas de gran relevancia como:
